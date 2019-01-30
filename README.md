@@ -1,3 +1,5 @@
+# [Bixby capsule Example - KR]
+
 # 간단한 사칙연산 예제 capsule 입니다.
 
 - 빅스비의 전반적인 구조를 알 수 있습니다.
